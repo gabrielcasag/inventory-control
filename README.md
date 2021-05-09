@@ -75,3 +75,12 @@ npm run serve
 ```
 
 - A aplicação estará disponivel provavelmente em localhost:8081
+
+
+### Screenshots
+
+- Home page
+![image](https://user-images.githubusercontent.com/52332643/117588888-c21f2400-b0fc-11eb-893b-5d943b0416a0.png)
+
+- Product page
+![image](https://user-images.githubusercontent.com/52332643/117588875-b2074480-b0fc-11eb-9a2a-9386c64913b5.png)
