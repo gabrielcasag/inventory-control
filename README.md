@@ -1,6 +1,6 @@
 ## Trabalho de Programação WEB desenvolvido por Gabriel Gasperi Casagrande
 
-## Tecnologias Utilizadas:
+## Technologies
 
 ### Frontend:
 
@@ -19,7 +19,7 @@
 
 - [PostgreSQL 9.1](https://www.postgresql.org/)
 
-### Ferramentas/IDE
+### Tools/IDE
 
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -27,7 +27,7 @@
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Insomnia Core](https://insomnia.rest/download/)
 
-## Configurações:
+## Configs:
 
 - Crie o banco conectando-se ao PSQL(pelo Sql shell) com o comando abaixo
 - Ou pelo DBeaver, ou sua ferramenta preferida
@@ -49,7 +49,7 @@
     spring.datasource.password={senha_do_seu_postgres}
   ```
 
-## Para executar
+## To Go
 
 ### Backend
 
